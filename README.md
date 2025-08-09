@@ -1,5 +1,4 @@
 # Task 3 - Business Insights and Executive Report for E Commerce Dataset
-# E-Commerce Dataset Analysis Report
 
 ## 1. Introduction
 
